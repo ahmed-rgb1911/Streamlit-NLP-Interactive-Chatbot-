@@ -120,7 +120,7 @@ st.markdown("""
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/4712/4712035.png", width=100)
     st.title("Project Info")
-    st.write("**devoloped by:** Ahmed Gehad with Alaa hamdy")
+    st.write("**devoloped by:** Ahmed Gehad ")
     st.write("**Project:** NLP Smart Assistant")
     st.write("**Course:** Natural Language Processing")
     st.divider()
